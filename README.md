@@ -12,6 +12,7 @@
 * Extention is .md
 * README is Default for Github
 :smile:
+* Installation Party
 
 My Page:
 https://github.com/Mohammad-Nour-Rezek/Reading-Notes
