@@ -1,5 +1,8 @@
 # Mohammad Nour Rezek
 *Software Engineer*
+- [x] First on class 2018.
+
+***MSP***
 
 # Table of Contents:
 1. [Code 102 Day 1](https://mohammad-nour-rezek.github.io/Reading-Notes/reading-notes-day1)
