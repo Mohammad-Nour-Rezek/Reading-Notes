@@ -1,4 +1,4 @@
-##Git Source Control##
+***Git Source Control***
 * clone 
 * add
 * commit
