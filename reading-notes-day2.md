@@ -1,6 +1,6 @@
 **Benifits of This Day:[14/12/2020]**
 *Bash Commands:*
-* l`s --> list of files
+* ls --> list of files
 * ls -l --> more details
 * mkdir --> create folder
 * cd --> go to directory
