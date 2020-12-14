@@ -1,31 +1,7 @@
 # Mohammad Nour Rezek
 *Software Engineer*
 
-> I Think;
-***Growing Mindset is the process of keep going and learning and trying to success.***
-- [x] Be Positive
-- [x] Hi Eneregy
-- [x] Smart Focusing
-
-**Benifits of This Day:[13/12/2020]**
-* Markdown Language 
-* Extention is .md
-* README is Default for Github
-:smile:
-* Installation Party
-
-My Page:
-https://github.com/Mohammad-Nour-Rezek/Reading-Notes
-
-
-
-Mohammad_Nour_Rezek
-
 # Table of Contents
 
-1. [My first title](#URL)
-2. [My second title](#my-second-title)
-## My first title
-Some text.
-## My second title
-|| one || two ||
+1. [Code 102 Day 1](#https://github.com/Mohammad-Nour-Rezek/Reading-Notes/reading-notes-day1)
+2. [Code 102 Day 2](#https://github.com/Mohammad-Nour-Rezek/Reading-Notes/reading-notes-day2)
