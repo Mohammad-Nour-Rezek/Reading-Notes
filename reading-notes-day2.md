@@ -21,3 +21,5 @@
 * git fetch [remote-name] --> get all new changes from the repo (pull down) Use: [git fetch origin]
 * git push [remote-name][branch-name] --> push changing to the repo [git push origin master] || [git push origin main]
 * git add . --> add changes and tracking to the staged place
+
+[Return to Home Page](https://mohammad-nour-rezek.github.io/Reading-Notes/)
