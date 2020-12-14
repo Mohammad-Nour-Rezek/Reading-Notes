@@ -16,3 +16,18 @@
 
 My Page:
 https://github.com/Mohammad-Nour-Rezek/Reading-Notes
+
+**Benifits of This Day:[14/12/2020]**
+*Bash Commands:*
+* ls --> list of files
+* ls -l --> more details
+* mkdir --> create folder
+* cd --> go to directory
+* cd .. --> go back one level
+* pwd --> get working directory
+* tree --> whole device directory
+* touch --> create file
+* clear --> clear logs
+
+*Git commands:*
+* git init
