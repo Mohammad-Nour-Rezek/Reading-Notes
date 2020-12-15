@@ -23,8 +23,7 @@
 
 ***
 
-Main Page:
-https://github.com/Mohammad-Nour-Rezek/Reading-Notes
+[Main Page:](https://github.com/Mohammad-Nour-Rezek/Reading-Notes)
 
 ***
 
