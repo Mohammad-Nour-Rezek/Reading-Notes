@@ -14,7 +14,7 @@
     + padding: inherit; --> will inherit from the more general level        
 
 - *CSS Selectors:*
-    + * {} --> universal
+    + `*` {} --> universal
     + p {} --> element selector
     + h1, h3, p {} --> multiple
     + .class {}
