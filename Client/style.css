@@ -1,0 +1,42 @@
+header, section, footer, aside, nav, article, figure {
+    display: block;
+}
+
+* {
+    font-family: Arial, Verdana, sans-serif;
+}
+
+nav ul li {
+    display: inline;
+    color: hsla(29, 85%, 57%, 0.6);
+}
+
+header {
+    background-color: hsla(248, 39%, 39%, 0.5);
+}
+
+header + h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 24px;
+}
+
+body {
+    font-size: 18px;
+}
+
+section {
+    border: dotted crimson 1px;
+}
+
+.first:hover {
+    color: hsl(120, 85%, 40%);
+}
+
+#desc::shadow {
+    background-color: darkorange;
+}
+
+footer {
+    background-color: hsla(249, 52%, 13%, 0.5);
+    color: hsl(195, 100%, 50%);
+}

@@ -1,4 +1,5 @@
 **Benifits of This Day:[14/12/2020]**
+
 *Bash Commands:*
 * ls --> list of files
 * ls -l --> more details
@@ -9,6 +10,7 @@
 * tree --> whole device directory
 * touch --> create file
 * clear --> clear logs
+* cp -r "file path" "to folder" --> cope files to new path
 
 ***
 
@@ -34,8 +36,8 @@
     + <head></head>
         * <title></title>
         * <meta name="description, keywords, robots" http-equiv="author, pragma, expires" content="" /> --> for each name or http-equiv get different content
-        * <link rel="stylesheet" href="" />
-        * <script></script>
+        * <link rel="stylesheet" href="css/styles.css" type="text/css" />
+        * <script src=""></script>
         * <style type="text/css"></style>
     + <p></p>
         * <p lang="en-us"></p> --> if text in english
@@ -82,7 +84,7 @@
     + &copy;
     + &reg;
     + &trade;
-    
+
 - *Html Page:*
 [index.html](https://mohammad-nour-rezek.github.io/Reading-Notes/Client/index.html)
 

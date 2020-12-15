@@ -8,7 +8,8 @@
 #Number | Link
 1. | [Code 201 Day 1](https://mohammad-nour-rezek.github.io/Reading-Notes/reading-notes-day1)
 2. | [Code 201 Day 2](https://mohammad-nour-rezek.github.io/Reading-Notes/reading-notes-day2)
+2. | [Code 201 Day 3](https://mohammad-nour-rezek.github.io/Reading-Notes/reading-notes-day3)
 
 
 ***
-> copy right
+> &copy; copy right
