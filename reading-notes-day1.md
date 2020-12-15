@@ -1,3 +1,5 @@
+**Benifits of This Day:[13/12/2020]**
+
 *Growing Mindset:*
 > I Think;
 ***Growing Mindset is the process of keep going and learning and trying to success.***
@@ -7,10 +9,15 @@
 
 ***
 
-**Benifits of This Day:[13/12/2020]**
+*Markdown:*
 * Markdown Language 
 + Extention is .md
 - README is Default for Github
+- Github Web Pages
+    + Theme for web pages
+
+***
+
 :smile:
 * Installation Party
 
