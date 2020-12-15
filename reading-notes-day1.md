@@ -1,17 +1,24 @@
+*Growing Mindset:*
 > I Think;
 ***Growing Mindset is the process of keep going and learning and trying to success.***
 - [x] Be Positive
 - [x] Hi Eneregy
 - [x] Smart Focusing
 
+***
+
 **Benifits of This Day:[13/12/2020]**
 * Markdown Language 
-* Extention is .md
-* README is Default for Github
++ Extention is .md
+- README is Default for Github
 :smile:
 * Installation Party
 
+***
+
 Main Page:
 https://github.com/Mohammad-Nour-Rezek/Reading-Notes
+
+***
 
 [Return to Home Page](https://mohammad-nour-rezek.github.io/Reading-Notes/)

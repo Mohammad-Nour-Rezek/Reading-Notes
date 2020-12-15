@@ -10,6 +10,8 @@
 * touch --> create file
 * clear --> clear logs
 
+***
+
 *Git commands:*
 * git init --> create git working environment
 * git clone --> clone project from repo link
@@ -21,5 +23,13 @@
 * git fetch [remote-name] --> get all new changes from the repo (pull down) Use: [git fetch origin]
 * git push [remote-name][branch-name] --> push changing to the repo [git push origin master] || [git push origin main]
 * git add . --> add changes and tracking to the staged place
+* git pull --> fetch and merge all repo changes
+
+***
+
+*Html Tags:*
+
+
+***
 
 [Return to Home Page](https://mohammad-nour-rezek.github.io/Reading-Notes/)
