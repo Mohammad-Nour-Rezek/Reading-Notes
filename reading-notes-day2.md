@@ -10,7 +10,10 @@
 * tree --> whole device directory
 * touch --> create file
 * clear --> clear logs
-* cp -r "file path" "to folder" --> cope files to new path
+* cp -r file path to folder --> cope files to new path
+    + man cp --> for help
+* mv path path --> for cut and rename
+    + man mv --> for help
 
 ***
 
