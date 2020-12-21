@@ -58,6 +58,38 @@
 - *To see CSS and Javascript effects please visit:*
 [index.html](https://mohammad-nour-rezek.github.io/Reading-Notes/Client/index.html)
 
+*How Computer Work:*
+* A computer is Consist of 4 parts: 
+    1- Input
+    2- CPU
+    3- Memory
+    4- Output
+
+* The informations transform inside the computer in form of 0, 1 elecetric signs
+
+* Computers performs it's jobs as take Input, store informations, process it, then give outputs.
+
+- Input: throught keyboard, mouse touch or voice...
+- Storage: the place to store informations get from inputs, and store it after processing it before outputting.
+- Process: sequence of calculations as algorithem take information from memory doing calaulations then store it again.
+- Output: throught text, image, voice, vr or signals to robot.
+
+* Data inside a computer represented as Bit [0, 1], [True, False], [Yes, No], and it's transfare throught elecetric wires in motherboard.
+
+- it's use the binary system in countin rather than dicimal numbers system
+- Text represented using UTF
+- Images, Videos are represented by pixels and each pixel represented via binary number
+- Sounds: numbers of sound waves changes (32-bit means more numbers then more quality sound)
+
+* Circets is a mini-micro elecetronics that doing process and modify of bits inside computer, it's doing the logic of [and, or, xor, nor, not, nand]
+
+* CPU is consist of Cercits and these cercits command is stored inside the memory, so whenwe add numbers cpu read addition command binary number from memory then run addition cercit inside it then store the result in memory.
+
+- Software is telling the cpu what to do.
+- Software code is high level translated to low level binary code that cpu understand.
+
++ Operating system is master program that manage the cpu resources to install and use multiple softwares at the same time.
+
 ***
 
 [Return to Home Page](https://mohammad-nour-rezek.github.io/Reading-Notes/)
