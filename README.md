@@ -14,7 +14,7 @@
 
 ### Code 201 Reading Notes
 1. | [Code 201 Class 1](https://mohammad-nour-rezek.github.io/Reading-Notes/201_Classes/class-01)
-1. | [Code 201 Class 2](https://mohammad-nour-rezek.github.io/Reading-Notes/201_Classes/class-02)
+2. | [Code 201 Class 2](https://mohammad-nour-rezek.github.io/Reading-Notes/201_Classes/class-02)
 
 ***
 > &copy; copy right
