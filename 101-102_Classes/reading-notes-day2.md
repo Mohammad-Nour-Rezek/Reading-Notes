@@ -2,6 +2,7 @@
 
 *Bash Commands:*
 * ls --> list of files
+* ls -a --> list of all files with hidden one
 * ls -l --> more details
 * mkdir --> create folder
 * cd --> go to directory
@@ -12,7 +13,8 @@
 * clear --> clear logs
 * cp -r file path to folder --> cope files to new path
     + man cp --> for help
-* mv path path --> for cut and rename
+* mv path path --> for cut
+* mv oldFileName newFileName --> to rename without moving
     + man mv --> for help
 
 ***
@@ -29,6 +31,12 @@
 * git push [remote-name][branch-name] --> push changing to the repo [git push origin master] || [git push origin main]
 * git add . --> add changes and tracking to the staged place
 * git pull --> fetch and merge all repo changes
+* git checkout -b debug --> create and switch to a new branch 
+* git checkout original main
+called debug
+    + *equal to:*
+    + git branch debug
+    + git checkout debug
 
 ***
 
