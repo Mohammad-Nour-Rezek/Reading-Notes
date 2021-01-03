@@ -3,4 +3,4 @@
 - prompt
 - confirm
 - if else
-- switch
+- switch statement

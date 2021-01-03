@@ -31,6 +31,7 @@
 * git push [remote-name][branch-name] --> push changing to the repo [git push origin master] || [git push origin main]
 * git add . --> add changes and tracking to the staged place
 * git pull --> fetch and merge all repo changes
+    + git pull origin main
 * git checkout -b debug --> create and switch to a new branch 
 * git checkout original main
 called debug
