@@ -15,6 +15,10 @@
 ### Code 201 Reading Notes
 1. | [Code 201 Class 1](https://mohammad-nour-rezek.github.io/Reading-Notes/201_Classes/class-01)
 2. | [Code 201 Class 2](https://mohammad-nour-rezek.github.io/Reading-Notes/201_Classes/class-02)
+3. | [Code 201 Class 3](https://mohammad-nour-rezek.github.io/Reading-Notes/201_Classes/class-03)
+4. | [Code 201 Class 4](https://mohammad-nour-rezek.github.io/Reading-Notes/201_Classes/class-04)
+5. | [Code 201 Class 5](https://mohammad-nour-rezek.github.io/Reading-Notes/201_Classes/class-05)
+6. | [Code 201 Class 6](https://mohammad-nour-rezek.github.io/Reading-Notes/201_Classes/class-06)
 
 ***
 > &copy; copy right
