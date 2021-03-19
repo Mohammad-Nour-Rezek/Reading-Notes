@@ -1,6 +1,6 @@
 # **03/01/2021**
 
-*FUNCTION DECLARATION*
+_FUNCTION DECLARATION_
 
 A function declaration creates a function that you
 can ca ll later in your code. It is the type of function
@@ -11,11 +11,11 @@ functions. Below, a function called area() is
 declared, which can then be called using its name.
 
 function area (width, height)
-return width * height;
+return width \* height;
 };
 var size= area(3, 4) ;
 
-*FUNCTION EXPRESSION*
+_FUNCTION EXPRESSION_
 
 If you put a function where the interpreter would
 expect to see an expression, then it is treated as an
@@ -27,11 +27,11 @@ called area. It can be called like any function created
 with a function declaration.
 
 var ar ea = f unction(width, height) {
-r eturn width * height;
+r eturn width \* height;
 } ;
 var size = area(3, 4) ;
 
-*IMMEDIATELY INVOKED FUNCTION EXPRESSIONS (llFE)*
+_IMMEDIATELY INVOKED FUNCTION EXPRESSIONS (llFE)_
 
 Pronounced "iffy," these functions are not given
 a name. Instead, they are executed once as the
@@ -43,10 +43,10 @@ function itself so that it can be called later).
 var area = (function() {
 var wi dth = 3;
 var height = 2;
-return widt h * height;
+return widt h \* height;
 })();
 
-*IN AN OBJECT: VARIABLES BECOME KNOWN AS PROPERTIES*
+_IN AN OBJECT: VARIABLES BECOME KNOWN AS PROPERTIES_
 
 If a variable is part of an object, it is called a
 property. Properties te ll us about the object, such as
@@ -54,7 +54,7 @@ the name of a hotel or the number of rooms it has.
 Each individual hotel might have a different name
 and a different number of rooms.
 
-*IN AN OBJECT: FUNCTIONS BECOME KNOWN AS METHODS*
+_IN AN OBJECT: FUNCTIONS BECOME KNOWN AS METHODS_
 
 If a function is part of an object, it is called a method.
 Methods represent tasks that are associated with
@@ -67,7 +67,7 @@ name: 'Quay',
 rooms : 40,
 booked: 25,
 checkAvailability: function() {
-    return this.rooms - this.booked;
+return this.rooms - this.booked;
 }
 };
 
@@ -76,7 +76,7 @@ how browsers should create a model of an HTML
 page and how JavaScript can access and update the
 contents of a web page while it is in the browser window.
 
-*MAKING A MODEL OF THE HTML PAGE*
+_MAKING A MODEL OF THE HTML PAGE_
 When the browser loads a web page, it
 creates a model of the page in memory.
 The DOM specifies the way in which the

@@ -32,7 +32,7 @@ The body should sit inside the
 The footer belongs inside the
 <tfoot> element.
 
-***
+---
 
 CREATING OBJECTS USING CONSTRUCTOR SYNTAX
 var hotel = new Object();

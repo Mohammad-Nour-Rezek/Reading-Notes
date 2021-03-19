@@ -1,8 +1,9 @@
 # **27/12/2020**
 
-***HTML***
+**_HTML_**
 
-***CSS***
+**_CSS_**
+
 - :last-child
 - :nth-child()
 - :nth-last-child() - count from the last
@@ -14,4 +15,4 @@
 - :not()
 - [] - attribute
 
-***JS***
+**_JS_**

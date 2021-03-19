@@ -1,16 +1,16 @@
 # **28/12/2020**
 
-***HTML***
+**_HTML_**
 
-***
+---
 
-***CSS***
+**_CSS_**
 
 use reset css file to reset all browsers styles to zeros.
 
-***
+---
 
-***JS***
+**_JS_**
 
 - 'use strict' to enforce js intelisense and reduce errors
 - use .eslintrc.json to intitialize foundations for intelisense and rolls for js code in strict mood
